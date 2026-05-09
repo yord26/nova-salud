@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1778293404194,
+    "cliente": "Cliente General",
+    "items": [
+      {
+        "productoId": 1778293388722,
+        "cantidad": 11
+      }
+    ],
+    "total": 22,
+    "fecha": "2026-05-09T02:23:24.194Z",
+    "vendedor": "Mamani Maykon"
+  }
+]

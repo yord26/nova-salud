@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mamani Maykon",
+    "email": "admin@novasalud.com",
+    "password": "$2b$10$YYYLs.yyiIxihVf5MefIZeEgO3YvLQ3vNkLwhRgFmgiKgdPaD6f.i",
+    "rol": "admin"
+  }
+]
